@@ -10988,7 +10988,7 @@ section.resume-section .resume-section-content {
 /* Image Styling */
 .card img {
     width: 100%;
-    height: 200px; /* Fixed height for images */
+    height: 100px; /* Fixed height for images */
     object-fit: cover; /* Ensure images fit the card */
     border-bottom: 2px solid #ddd;
 }
@@ -10997,7 +10997,7 @@ section.resume-section .resume-section-content {
 .card .card-body {
     padding: 10px 15px; /* Adjust padding */
     line-height: 1; /* Reduce line spacing */
-    font-size: 14px; /* Slightly smaller font size */
+    font-size: 18px; /* Slightly smaller font size */
 }
 
 /* Member Name Styling */
@@ -11006,6 +11006,7 @@ section.resume-section .resume-section-content {
     font-weight: bold;
     margin-bottom: 5px; /* Adjust spacing */
 }
+
 
 /* Social Icon Styling */
 .social-icons a {
