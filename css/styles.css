@@ -10973,8 +10973,8 @@ section.resume-section .resume-section-content {
 
 /* Team Member Card Styling */
 .card {
-    width: 500px; /* Set a fixed width */
-    height: 420px; /* Set a fixed height */
+    width: 400px; /* Set a fixed width */
+    height: 400px; /* Set a fixed height */
     margin: 15px auto; /* Center the card */
     display: flex;
     flex-direction: column;
@@ -11018,3 +11018,8 @@ section.resume-section .resume-section-content {
 .social-icons a:hover {
     color: #0056b3; /* Icon hover effect */
 }
+.team-card p {
+    margin: 5px 0; /* Reduce vertical spacing between paragraphs */
+    line-height: 1; /* Adjust line height for tighter spacing */
+}
+
