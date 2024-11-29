@@ -10973,7 +10973,7 @@ section.resume-section .resume-section-content {
 
 /* Team Member Card Styling */
 .card {
-    width: 300px; /* Set a fixed width */
+    width: 500px; /* Set a fixed width */
     height: 420px; /* Set a fixed height */
     margin: 15px auto; /* Center the card */
     display: flex;
@@ -10996,7 +10996,7 @@ section.resume-section .resume-section-content {
 /* Text Styling */
 .card .card-body {
     padding: 10px 15px; /* Adjust padding */
-    line-height: 1.4; /* Reduce line spacing */
+    line-height: 1; /* Reduce line spacing */
     font-size: 14px; /* Slightly smaller font size */
 }
 
